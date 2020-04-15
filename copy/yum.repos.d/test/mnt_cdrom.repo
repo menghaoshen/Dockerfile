@@ -1,0 +1,6 @@
+
+[mnt_cdrom]
+name=added from: file:/mnt/cdrom
+baseurl=file:/mnt/cdrom
+enabled=0
+
